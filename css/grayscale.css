@@ -86,7 +86,7 @@
 
 .masthead {
   position: relative;
-  width: 75%;
+  width: 100%;
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
@@ -159,7 +159,7 @@
 }
 
 .btn-primary:active {
-  background-color: #467370 !important;
+  background-color: #c46217 !important;
 }
 
 .about-section {
