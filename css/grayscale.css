@@ -6,7 +6,7 @@
 
 #mainNav {
   min-height: 56px;
-  background-color: rgb(247, 76, 76);
+  background-color: #fff;
 }
 
 #mainNav .navbar-toggler {
@@ -86,11 +86,11 @@
 
 .masthead {
   position: relative;
-  width: 100%;
+  width: 75%;
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url("../img/.png");
+  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%), url("../img/web.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
