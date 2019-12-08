@@ -18,7 +18,7 @@
     #mainNav.navbar-shrink .nav-link:hover{color:#64a19d}
     #mainNav.navbar-shrink .nav-link:active{color:#467370}
     #mainNav.navbar-shrink .nav-link.active{color:#64a19d;outline:0;border-bottom:.25rem solid #64a19d}}
-    .masthead{position:relative;width:100%;height:auto;min-height:35rem;padding:15rem 0;background:transparent(to bottom,rgba(22, 22, 22, 0) 0,rgba(22,22,22,.7) 75%,#ffffff 100%),url(../img/websitep1.png);background-position:center;background-repeat:no-repeat;background-attachment:scroll;background-size:cover}
+    .masthead{position:relative;width:100%;height:auto;min-height:35rem;padding:15rem 0;background:url(../img/websitep1.png);background-position:center;background-repeat:no-repeat;background-attachment:scroll;background-size:cover}
     .masthead h1{font-family:'Varela Round';font-size:2.5rem;line-height:2.5rem;letter-spacing:.8rem;background:-webkit-linear-gradient(rgba(255,255,255,.9),rgba(255,255,255,0));-webkit-text-fill-color:transparent;-webkit-background-clip:text}
     .masthead h2{max-width:20rem;font-size:1rem}@media (min-width:768px){
         .masthead h1{font-size:4rem;line-height:4rem}}@media (min-width:992px){
