@@ -47,7 +47,7 @@
   }
   #mainNav .navbar-brand {
     padding: .5rem 0;
-    color: rgb(233, 215, 14);
+    color: rgba(255, 255, 255, 0.5);
   }
   #mainNav .nav-link {
     transition: none;
@@ -67,7 +67,7 @@
     color: #161616;
   }
   #mainNav.navbar-shrink .nav-link {
-    color: #161616;
+    color: #5e0d0d;
     padding: 1.5rem 1.5rem 1.25rem;
     border-bottom: 0.25rem solid transparent;
   }
