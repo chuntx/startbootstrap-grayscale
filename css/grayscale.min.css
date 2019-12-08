@@ -34,7 +34,7 @@ font-family: 'Waiting for the Sunrise', cursive;
         .masthead h1{font-size:4rem;line-height:4rem}}@media (min-width:992px){
             .masthead{height:100vh;padding:0}.masthead h1{font-size:6.5rem;line-height:6.5rem;letter-spacing:.8rem}
             .masthead h2{max-width:30rem;font-size:1.25rem}}.btn{box-shadow:0 .1875rem .1875rem 0 rgba(0,0,0,.1)!important;padding:1.25rem 2rem;font-family:'Varela Round';font-size:80%;text-transform:uppercase;letter-spacing:.15rem;border:0}
-            .btn-primary{background-color:#64a19d}
+            .btn-primary{background-color:#00000077}
             .btn-primary:hover{background-color:#4f837f}
             .btn-primary:focus{background-color:#4f837f;color:#fff}
             .btn-primary:active{background-color:#467370!important}
