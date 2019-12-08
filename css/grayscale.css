@@ -90,7 +90,7 @@
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #ffffff 100%), url("../img/websitepic1.JPG");
+  background: linear-gradient(to bottom, #ffffff 0%, #ffffff 75%, #ffffff 100%), url("../img/websitepic1.JPG");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
